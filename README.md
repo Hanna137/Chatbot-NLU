@@ -9,7 +9,7 @@ Technology used
 - Docker
 
 # Directory structure
-
+```
 chatbot-app/
 │
 ├── app.py # Flask app source code
@@ -18,6 +18,8 @@ chatbot-app/
 │ └── index.html # Main interface
 ├── requirements.txt # Required libraries
 └── Dockerfile # Docker packaging
+```
+
 #Running instructions
 Open all files, in app.py click Run, a local link will appear, click on it to display the chatbot
 
